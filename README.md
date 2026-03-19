@@ -1,8 +1,8 @@
-🚀 Platter Challenge - eCommerce Product Grid
+# 🚀 Platter Challenge - eCommerce Product Grid
 
 A high-performance, fully responsive product grid carousel built as a technical challenge to showcase proficiency in Tailwind CSS, semantic HTML, and Vanilla JavaScript. This project focuses on delivering complex interactive design patterns while maintaining clean code and optimal Core Web Vitals.
 
-📋 Challenge Requirements Delivered
+## 📋 Challenge Requirements Delivered
 This project strictly follows all the constraints and objectives specified in the challenge instructions:
 
 Product Display: Renders a minimum of 10 product cards.
@@ -25,7 +25,7 @@ Specific Tech Stack: Built with semantic HTML, JavaScript (Vanilla JS) for all f
 
 Placeholders: Used free stock images from Unsplash.
 
-🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 HTML5: Semantic markup for improved SEO and accessibility.
 
@@ -33,7 +33,7 @@ CSS3: Tailwind CSS framework used for utility-first styling.
 
 JavaScript (ES6+): Plain Vanilla JS for all dynamic interactions.
 
-✨ Implementation Highlights
+## ✨ Implementation Highlights
 
 Smooth Dropdown (Mobile): Implemented using CSS transitions and height manipulation for a clean, non-blocking animation.
 
@@ -41,7 +41,7 @@ Optimized Image Swapping: Pre-loaded or lazy-loaded secondary images to ensure n
 
 Custom Styling: Utilized Tailwind's customization capabilities to create a precise UI matching the requested design and custom scrollbar behavior.
 
-📦 How to Run
+## 📦 How to Run
 
 Clone the repository:
 
@@ -55,7 +55,7 @@ git pull origin main
 
 Open index.html (or your local development environment) to preview.
 
-🧠 Engineering Decisions
+## 🧠 Engineering Decisions
 
 Choosing Vanilla JavaScript
 
